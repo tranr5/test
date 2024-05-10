@@ -1,4 +1,6 @@
 function addOne(num) {
     return num + 1
-    console log(num)
+
 }
+
+console.log (addOne(1))
